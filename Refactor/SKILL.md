@@ -1,3 +1,12 @@
+---
+name: refactor
+description: >
+  Behaviour-preserving refactoring with disciplined, incremental
+  verification: baseline, assess, plan, then execute in small,
+  independently reversible steps. Use when asked to refactor, restructure,
+  clean up, decouple or reorganise code without changing what it does.
+---
+
 # Refactor
 
 Perform behaviour-preserving refactoring with disciplined, incremental verification.
