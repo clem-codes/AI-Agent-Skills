@@ -1,3 +1,8 @@
+---
+name: visual-vocabulary
+description: Use when deciding which kind of chart fits what a reader needs to understand, or when critiquing whether an existing chart, dashboard or site uses the right visual form, using the Financial Times Visual Vocabulary's nine categories (deviation, correlation, ranking, distribution, change over time, part-to-whole, magnitude, spatial, flow).
+---
+
 # SKILL: Financial Times (FT) Visual Vocabulary Framework for Data Visualisation
 
 ## Purpose
