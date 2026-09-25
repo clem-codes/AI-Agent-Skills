@@ -8,6 +8,7 @@ A personal collection of skills: instruction files that teach AI agents such as 
 - [Information Is Beautiful](Information%20Is%20Beautiful/): turning data, research or ideas into concept-driven, editorial-quality charts and infographics, inspired by David McCandless's *Information Is Beautiful*.
 - [Product UI Design](Product%20UI%20Design/): designing the interface of a product, tool, dashboard, web app, personal site or small browser game, starting from a clear visual idea and avoiding generic AI-looking design.
 - [Refactor](Refactor/): tidying up or restructuring code without changing what it does, in small steps that are checked as you go.
+- [Visual Vocabulary](Visual%20Vocabulary/): picking the right kind of chart for what the reader needs to understand, using the Financial Times *Visual Vocabulary* and its nine categories (deviation, correlation, ranking, distribution, change over time, part-to-whole, magnitude, spatial, flow).
 
 ## Using a skill
 
